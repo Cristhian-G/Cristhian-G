@@ -51,8 +51,8 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/cristhian_gr2004?igsh=MXBidDZvdmtzdDlhZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://open.spotify.com/user/msgqmuv3vb0mlsjc66d28b07e">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=msgqmuv3vb0mlsjc66d28b07e&amp;count=10&amp;album=1" alt="Spotify recently played" width="400" />
   </a>
 </div>
 
