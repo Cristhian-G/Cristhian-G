@@ -58,14 +58,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/msgqmuv3vb0mlsjc66d28b07e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=msgqmuv3vb0mlsjc66d28b07e&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cristhian-G/Cristhian-G/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cristhian-G/Cristhian-G/output/pacman-contribution-graph.svg">
