@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/msgqmuv3vb0mlsjc66d28b07e">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=msgqmuv3vb0mlsjc66d28b07e&amp;count=10&amp;album=1" alt="Spotify recently played" width="400" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=msgqmuv3vb0mlsjc66d28b07e&amp;count=10&amp" alt="Spotify recently played" width="400" />
   </a>
 </div>
 
